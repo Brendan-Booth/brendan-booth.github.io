@@ -38,7 +38,9 @@ For the second test I added some bearings which helped but didn't fix vibrations
 -epoxying the bearings into place, had o be done upsidedown due to posiioning. Luckily my brother was't home so I could hang it from his roof!
 
 However these changes were enough to make it work! After a lot of fighting software and tuning the PID controllers I finally got it working well enough for long missions!
+
 [![Alt text](https://img.youtube.com/vi/VCD_91h2P_U/0.jpg)](https://www.youtube.com/watch?v=VCD_91h2P_U)
+
 -video of some tuning
 
 As mentioned earlier it successfully completed the mission. There was one hiccup where some weeds were caught on one of the props on the 5th of 10 laps and I took it in to remove the weeds. However it was able to compensate for the weeds and make it back to the its home. I think this might be able to be helped by programming in occasional sharp turns into missions to dislodge weeds. Right now the project is on hold until summer comes back, and I will attempt ocean missions.
