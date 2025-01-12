@@ -44,8 +44,13 @@ However these changes were enough to make it work! After a lot of fighting softw
 As mentioned earlier it successfully completed the mission. There was one hiccup where some weeds were caught on one of the props on the 5th of 10 laps and I took it in to remove the weeds. However it was able to compensate for the weeds and make it back to the its home. I think this might be able to be helped by programming in occasional sharp turns into missions to dislodge weeds. Right now the project is on hold until summer comes back, and I will attempt ocean missions.
 
 Main Fusion link
+
 https://a360.co/4gN0Tar
+
 -mostly up to date however bearings, bilge system and revised lids not included.
+
 Bilge Link
+
 https://a360.co/40gM7BN
+
 -bits were cut out of ribs to ensure proper operation of pumps
