@@ -22,7 +22,9 @@ After they were glued the hull was faired and sanded and then several coats of e
 bottoms of the hull which required 4 layers since the epoxy just wanted to slide off the hulls and would only make really thin coats. The top being flat only required 1 layer, however it was complicated by my decision to put in some 10mm rubber tubing to act as o-rings. This didn't work because of the unevenness of the hull and I later added weather stripping which seems to work very well. 
 
 During and after hull construction I was also working on the electronics, after some research I went with Ardupilot as my software, and ran it on a speedybee fixed wing controller. For radios, I have a 300m telemetry radio and a cheap radio controller and receiver. It also had a speedy-bee combined GPS and compass module. For the drives I have two pretty large low KV motors, which were chosen with the batteries to give similar rpm's to the more expensive motors the props were meant for. They are driven by some pretty huge 80A speed controllers, which are potentially needed for the higher throttle commands I can't quite achieve yet because of the vibrations. The boat is powered by 4 12v 18AH agm batteries, which were also chosen for cost.
+
 https://github.com/user-attachments/assets/835a0619-e6fe-4864-9d44-38835135e096
+
 -short video of initial tests, the components were basically the cheapest possible so I was pretty nervous about it. They all worked but I cut the camera out since it was on the same frequency as my wifi and every time it was turned on the wifi in my room would cut out.
 
 My first test was in november, it was both cold and disappointing. Cold since I was just wearing some dumb rubber boots that were immediately overtopped by the freezing lake water. And disappointing since there were really bad vibration problems with the motors that started melting the 3d printed prop hubs, and thus I couldn't drive it at all, and just had to stand in the lake testing waterproofness. Also at this point the connectors for two hulls were about 20 lbs heavier than they needed to be bringing the boat to 100lbs, and I redislocated my shoulder from moving the boat around. 
@@ -34,6 +36,9 @@ For the second test I added some bearings which helped but didn't fix vibrations
 -limit switch activated by a float which turns on the pump when the water reaches sufficient height. 
 
 However these changes were enough to make it work! After a lot of fighting software and tuning the PID controllers I finally got it working well enough for long missions!
+
 https://www.youtube.com/watch?v=VCD_91h2P_U 
+
 -video of some tuning
+
 As mentioned earlier it successfully completed the mission. There was one hiccup where some weeds were caught on one of the props on the 5th of 10 laps and I took it in to remove the weeds. However it was able to compensate for the weeds and make it back to the its home. I think this might be able to be helped by programming in occasional sharp turns into missions to dislodge weeds. Right now the project is on hold until summer comes back, and I will attempt ocean missions.
