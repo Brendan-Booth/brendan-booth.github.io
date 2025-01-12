@@ -7,7 +7,7 @@ date: 2025-01-12
 
 This is my autonomous boat! So far its longest mission has been 34km, which was done at 1m/s. Based on the data from this run it seems that it has a maximum range at this speed of ~74 km. At 1m/s it consumes ~40w of power in calm conditions, however if the speed is decreased to 0.8m/s its efficiency improves to 104km, though the downside of this is this mission would take ~35 hours. Building this boat took me just over a year, with the majority of the time spent in designing and constructing the hulls. The hulls were designed in fusion 360, where I spent a lot of time trying to get them to be fully parametric, which the shape of the hull is, however I had to then split this into 104 pieces in order to fit it on my Voron 0 printer which has 120mmx120mm build plate, and my old slow Ender 3. 
 ![boot modle](https://github.com/user-attachments/assets/ddf60f52-4661-4a29-864c-b63d0fddd672)
--overview of hull model with component colors
+-overview of hull model with component colors link provided at bottom
 
 The parts for the hull took ~10 spools of filament and took almost 1000 print hours between the two hulls. These pieces were designed to slot into each other which aligns them in order for them to be glued into place. 
 ![boat unglued](https://github.com/user-attachments/assets/d0117da6-6ca4-4c65-a91a-6f26f8b1418d)
@@ -42,3 +42,10 @@ However these changes were enough to make it work! After a lot of fighting softw
 -video of some tuning
 
 As mentioned earlier it successfully completed the mission. There was one hiccup where some weeds were caught on one of the props on the 5th of 10 laps and I took it in to remove the weeds. However it was able to compensate for the weeds and make it back to the its home. I think this might be able to be helped by programming in occasional sharp turns into missions to dislodge weeds. Right now the project is on hold until summer comes back, and I will attempt ocean missions.
+
+Main Fusion link
+https://a360.co/4gN0Tar
+-mostly up to date however bearings, bilge system and revised lids not included.
+Bilge Link
+https://a360.co/40gM7BN
+-bits were cut out of ribs to ensure proper operation of pumps
