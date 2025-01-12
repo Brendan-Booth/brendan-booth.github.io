@@ -1,6 +1,6 @@
 ---
 title: "Mate Rov Ranger Division"
-date: 2025-01-12
+date: 2024-05-30
 ---
 
 This is a summary of 3 years of competing in The MATE ROV Ranger competition. I have focused more on he 2023-204 year since it is more representative of my current skills.
