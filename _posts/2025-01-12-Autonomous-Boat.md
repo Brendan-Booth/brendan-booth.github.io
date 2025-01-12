@@ -37,7 +37,7 @@ For the second test I added some bearings which helped but didn't fix vibrations
 
 However these changes were enough to make it work! After a lot of fighting software and tuning the PID controllers I finally got it working well enough for long missions!
 
-[![Alt text]!(https://github.com/user-attachments/assets/f703bbdf-949b-45c3-9897-e1d8a4b5a8da)](https://www.youtube.com/watch?v=VCD_91h2P_U)
+[![Alt text]!(https://img.youtube.com/vi/v=VCD_91h2P_U/0.jpg)](https://www.youtube.com/watch?v=VCD_91h2P_U)
 
 -video of some tuning
 
