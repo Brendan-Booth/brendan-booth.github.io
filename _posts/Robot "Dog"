@@ -1,0 +1,10 @@
+---
+title: "Robot Dog"
+date: 2025-01-12
+---
+This project was done as part of my intro to codeing class, It was done in colaberation with Julia Butt (linkedin.com/in/julia-butt-805297247).
+![dog](https://github.com/user-attachments/assets/ef0ed1aa-4cba-4bbd-9cb6-a14c581430e2)
+It is a small robot dog controlled by 4 servo motors. Two of these motors are used for pushing the robot off he ground to give enough clearence for the other set of legs to swing without intersecing with the ground. 
+[![Alt text](https://img.youtube.com/vi/GlCDJEZUUvM/0.jpg)](https://www.youtube.com/watch?v=GlCDJEZUUvM)
+
+-Video we did for second round of competion, as of when I wrie his results arn't out yet
