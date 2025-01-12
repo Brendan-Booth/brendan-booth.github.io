@@ -33,7 +33,9 @@ My first test was in november, it was both cold and disappointing. Cold since I 
 
 For the second test I added some bearings which helped but didn't fix vibrations and added an automatic bilge system and weather stripping to have a drier boat.
 ![bilge system](https://github.com/user-attachments/assets/48c4a524-19db-41d9-aec2-356b069fba0e)
--limit switch activated by a float which turns on the pump when the water reaches sufficient height. 
+-limit switch activated by a float which turns on the pump when the water reaches sufficient height.
+![boat bearings](https://github.com/user-attachments/assets/9ef9e83e-f869-4a10-aed2-90bc061bda14)
+-epoxying the bearings into place, had o be done upsidedown due to posiioning. Luckily my brother was't home so I could hang it from his roof!
 
 However these changes were enough to make it work! After a lot of fighting software and tuning the PID controllers I finally got it working well enough for long missions!
 
