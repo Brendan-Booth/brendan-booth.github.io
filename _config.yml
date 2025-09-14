@@ -2,3 +2,7 @@ theme: minima
 title: Brendan-Booth Portfolio
 author: Brendan Booth
 description: Portfolio of my projects!
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
