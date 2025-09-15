@@ -3,7 +3,7 @@ title: "Solar panel data"
 date: 2025-09-14
 ---
 
-*Currently under-construction! I am currently testing out how to actual update this website with my live data from thinkspeak!
+*Currently under-construction! I am currently trouble shooting/verifying that its not gonna catch fire, I think I might need to recalibrate or replace some of the sensors, also the MPPT isn't behaving exactly how I though it would so I will have to make some changes to the setup.
 
 
 <iframe width="450" height="250" style="border: 1px solid #cccccc;"
