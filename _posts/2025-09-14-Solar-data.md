@@ -11,5 +11,5 @@ src="https://thingspeak.mathworks.com/channels/2937156/charts/2?bgcolor=%23fffff
 </iframe>
 
 <iframe width="450" height="250" style="border: 1px solid #cccccc;"
-src="https://thingspeak.mathworks.com/channels/2937156/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=100&title=Batery+Voltage&type=column&yaxismax=14&yaxismin=10">
+src="https://thingspeak.mathworks.com/channels/2937156/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=1000&title=Batery+Voltage&type=column&yaxismax=14&yaxismin=10">
 </iframe>
