@@ -39,7 +39,7 @@ I don't have any documentation for the 2021-2022 year besides the TinkerCAD mode
 ![claw 10](https://github.com/user-attachments/assets/6f6f9be3-20c2-4518-9b77-501cd2680c0f)
 -screenshot of tinkercad file, definitly was pushing it to its limits. It looks like and is a mess.
 ![10 arm](https://github.com/user-attachments/assets/0df2e588-c059-46d3-bf20-16a35bb089f2)
-)
+
 -partially assembled arm
 
 
