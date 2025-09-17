@@ -7,7 +7,7 @@ This is a summary of 3 years of competing in The MATE ROV Ranger competition. I 
 
 2023-2024 Comp Overview
 
-In 2023-2024, I was CEO of the team, as well as lead designer. This meant I spent a lot of time teaching my team members skills, such as onshape and 3d printing. Meanwhile, at home, I would design the robot and source components. For this year, we went with a vectored thrust setup with four vertical motors. However, we didn't have the budget to buy good motors for the lift, so instead I found some really cheap ones that we used instead. These didn't come with their respective propellers, and unfortunately, we didn't get enough testing in beforehand to ensure our 3d printed props were properly sized. Thus, accents and decents were much slower than they should have been. There was also a large issue with space inside the electronics tube, leading to a speed controller getting damaged and catching fire. This meant we had to forfeit the second competition run but had it working again by the third run! Unfortunately, the lift problems were still there, so we got a very low score. However, besides these issues, everything worked great!
+In 2023-2024, I was CEO of the team, as well as lead designer. This meant I spent a lot of time teaching my team members skills, such as onshape and 3d printing. Meanwhile, at home, I would design the robot and source components. For this year, we went with a vectored thrust setup with four vertical motors. However, we didn't have the budget to buy good motors for the lift, so instead I found some really cheap ones that we used instead. These didn't come with their respective propellers, and unfortunately, we didn't get enough testing in beforehand to ensure our 3d printed props were properly sized. Thus, accents and decents were much slower than they should have been. There was also a large issue with space inside the electronics tube, leading to a speed controller getting damaged and catching fire. This meant we had to forfeit the second competition run, but had it working again by the third run! Unfortunately, the lift problems were still there, so we got a very low score. However, besides these issues, everything worked great!
 
 ![fire guts](https://github.com/user-attachments/assets/c8926b98-f839-49f0-b4c0-b22895926c78)
 -me extracting the faulty speed controller
@@ -35,11 +35,11 @@ Both in 2021-2022 and 2022-2023, the robot suffered from fairly catastrophic flo
 ![Claw 11](https://github.com/user-attachments/assets/2f9d880c-781b-44a8-8247-9572fff7ea8d)
 -2022-2023 claw
 
-I don't have any documentation for the 2021-2022 year besides the TinkerCAD model of the arm I made for the team. It had 3 points of actuation and was controlled by strings pulled by servos in enclosures I thought would be waterproof. It worked in the air, though!
+I don't have much documentation for the 2021-2022 year besides the TinkerCAD model of the arm I made for the team. It had 3 points of actuation and was controlled by strings pulled by servos in enclosures I thought would be waterproof. It worked in the air, though!
 ![claw 10](https://github.com/user-attachments/assets/6f6f9be3-20c2-4518-9b77-501cd2680c0f)
--screenshot of tinkercad file, definitly was pushing it to its limits. It looks like and is a mess.
+-screenshot of TinkerCad file, definitely was pushing it to its limits. It looks like, and is a mess.
 ![10 arm](https://github.com/user-attachments/assets/0df2e588-c059-46d3-bf20-16a35bb089f2)
 
--partially assembled arm
+-assembled arm seen through the bot's camera during benchtop testing
 
 
