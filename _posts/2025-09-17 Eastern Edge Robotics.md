@@ -5,7 +5,7 @@ date: 2025-09-16
 
 Eastern Edge robotics is a student design team with ~30 members that competes in the MATE ROV competition at the university level. For the competition teams must design and build ROV's to perfom specific tasks that change every year. 2024-2025 was my first year on the team and I worked on the verticle profilier, photosphere, and some of the endcaps for the camera tube on the main bot.
 
-![Verticle profilier](<img width="746" height="680" alt="image" src="https://github.com/user-attachments/assets/4508c662-71b9-4c1f-a72f-76562dba7a78" />)
+![Verticle profilier](https://github.com/user-attachments/assets/4508c662-71b9-4c1f-a72f-76562dba7a78)
 
 -Screenshot taken during livestream in it you can see the profilier (Yellow arrow), the main robot (Blue arrow), and the photoshpere camera (red arrow)
 
