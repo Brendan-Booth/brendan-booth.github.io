@@ -3,7 +3,7 @@ title: "Solar panel data"
 date: 2025-09-14
 ---
 
-*Currently under-construction! I am currently trouble shooting/verifying that its not gonna catch fire, I think I might need to recalibrate or replace some of the sensors, also the MPPT isn't behaving exactly how I though it would so I will have to make some changes to the setup.
+*Unfourtunatly I am still working on this I got about 2 days of solid data and then for some reason the current sensor seems to have shifted its output and now reads incorrect measurements, athere are also a couple changes I need to make such as adding a load to burn excess energy and isolating the sensors more to improve reading accuracy. When the panel is working these two feed update with live data which is pretty sick and worked great for a couple days. I think I could probably figure this out with a couple days of working on it but school is picking up so i have to focus on that for a bit.
 
 
 <iframe width="450" height="250" style="border: 1px solid #cccccc;"
