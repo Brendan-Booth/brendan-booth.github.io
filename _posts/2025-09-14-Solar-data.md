@@ -2,14 +2,15 @@
 title: "Solar panel data"
 date: 2025-09-14
 ---
-
-*Unfortunately, I am still working on this. I got about 2 days of solid data, and then for some reason the current sensor seems to have shifted its output and now reads incorrect measurements. There are also a couple of changes I need to make, such as adding a load to burn excess energy and isolating the sensors more to improve reading accuracy. When the panel is working, these two feeds update with live data, which is pretty sick and worked great for a couple of days. I think I could probably figure this out with a couple days of working on it but school is picking up so I have to focus on that for a bit.
-
-
 <iframe width="450" height="250" style="border: 1px solid #cccccc;"
 src="https://thingspeak.mathworks.com/channels/2937156/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=100&title=Power&type=column">
 </iframe>
-
 <iframe width="450" height="250" style="border: 1px solid #cccccc;"
-src="https://thingspeak.mathworks.com/channels/2937156/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=1000&title=Batery+Voltage&type=column&yaxismax=14&yaxismin=10">
+src="https://thingspeak.mathworks.com/channels/2937156/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=1000&title=Battery+Voltage&type=line&yaxismax=14&yaxismin=10">
 </iframe>
+
+This project is the first step of my big goal of making an autonomous boat that can travel from Newfoundland to Ireland. The goal of this project is to collect solar data for weather conditions that will be similar to those of the voyage. This data will let me make informed decisions about solar panel, hull, motor size, and thus is necessary before I start designing the boat. 
+
+This project is my first big coding project, and 
+
+
