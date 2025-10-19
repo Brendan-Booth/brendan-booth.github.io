@@ -8,9 +8,9 @@ src="https://thingspeak.mathworks.com/channels/2937156/charts/2?bgcolor=%23fffff
 -Normal values between -0.3w - 5w in theory could be up to 10
 
 <iframe width="450" height="250" style="border: 1px solid #cccccc;"
-src="https://thingspeak.mathworks.com/channels/2937156/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=1000&title=Battery+Voltage&type=line&yaxismax=14&yaxismin=10&yaxis=Battery+Voltage+%28V%29">
+src="https://thingspeak.mathworks.com/channels/2937156/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=1000&title=Solar+Voltage&type=line&yaxismax=14&yaxismin=6&yaxis=Voltage+%28V%29">
 </iframe>
--Battery is fully charged at 13.5V and fully discharged at 10.8V, Important note: this graph measures charging voltage, which will not be the same as the battery if the power output is high
+-Voltage on solar panel end of charge controller
 
 This project is the first step of my big goal of making an autonomous boat that can travel from Newfoundland to Ireland. The goal of this project is to collect solar data for weather conditions that will be similar to the weather of the voyage. This data will let me make informed decisions about solar panel, hull, and motor size, and thus is necessary before I start designing the boat. 
 
