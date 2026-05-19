@@ -11,7 +11,7 @@ The project I planned for this year was to develop a reliable, versatile system 
 
 My first step for the DC motors was choosing a motor to waterproof. I chose https://www.digikey.ca/en/products/detail/sparkfun-electronics/15277/9995750 primarily due to its low cost, and circular output shaft, with the RPM and torque being close enough to what I wanted. The circular output shaft was important because I planned on putting an O-ring on the shaft for waterproofing. The low cost was also important because I planned on breaking a lot of them through testing. To waterproof the motor, I chose to CNC a HDPE cover to go over the motor head to hold the O-ring, and then potted the back of the motor. I followed the instructions in Parker's O-Ring handbook to get all my important dimensions, starting with my 6mm shaft and relatively low RPM. I followed a design table that specified a number 10 O-ring with an outer groove diameter of 9.12mm, and constructed the hat based on that. 
 
-![Unpotted with Hat](<img width="3024" height="4032" alt="V1 Unpotted Motor" src="https://github.com/user-attachments/assets/a527d433-c6e1-4431-9ee0-05ff412e97be" />)
+![Unpotted with Hat](https://github.com/user-attachments/assets/a527d433-c6e1-4431-9ee0-05ff412e97be)
 
 
 
