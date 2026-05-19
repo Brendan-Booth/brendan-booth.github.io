@@ -59,7 +59,7 @@ Additionally, I have worked on a couple of different tools and the tool skid for
 ![Tool Skids](https://github.com/user-attachments/assets/4ed7223c-e9a3-4509-8350-172344b22404)
 In this competition, the runs are split between two different tanks. The flume tank at the Marine Institute and the offshore engineering basin at NRC. Because there are different tasks for both basins, we want different ROV payloads for each tank. To achieve this, I designed a very simple HDPE skid that we can easily attach and remove to switch between different missions. The priority for this skid was to keep it really easy to make, so we could go through many iterations to find the best skid for the comp. Pictured here are the current two skids we have.
 
-![Some clips](https://github.com/user-attachments/assets/d4e2dbb1-92a3-4f34-b95e-0dbb1a32a4fb)
+![Some clips](https://github.com/user-attachments/assets/8739ee18-67eb-4b0e-abb6-5b4b5ce980d6)
 I also designed some clips to grab a bit of pipe from the bottom of the pool. Pictured is the first batch of clips, which were 3d printed. These were great for grabbing pipe in the air by hand but were pretty hard to use with the bot and got very damaged after a week of practice. To fix this, I redesigned a new set of clips to be CNC'ed, which went through a similar number of iterations.  
 
 ![Spinny Tool](https://github.com/user-attachments/assets/9b1456d7-e3f2-4ad4-8678-9e174f94da43)
