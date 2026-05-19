@@ -43,7 +43,7 @@ The camera was designed to be used with the Ethernet switch. This camera provide
 After the cameras were finished, I pivoted to working on the vertical profiler, a separate robot from the main robot. Throughout the year, I had also been leading/supervising this project, but I wasn't able to be as involved due to my work with the main bot. Now that the rest of my projects are finishing up, I prioritized this since it is a significant number of points for the competition. The general design of the profilier was similar to the one I built last year, reusing the drive system and enclosure tube. However, previously, the electronics and software were pretty hard to use, so the goal this year was to improve on that. To do this, we switched from a custom ESP board to an Arduino MKR1010, which was actually smaller and much easier to use.
 
 ![Verticle Profilier 2026](https://github.com/user-attachments/assets/2283f436-dbf9-4a21-8900-8631b30d4c50)
-I managed a couple of people on this project, but after finals, only two stuck around. They redesigned a lot of the CAD for the new electronics and rewrote the code to work with the new board. I designed and soldered the new electronics system, as well as remaking the bottom endcap, and helped with some of the CAD redesign. The new system adds an SD card reader for better storage of data and to store the web interface. an LED strip to comunicate the decisions to meet mission requirements and help with debugging. We also switched from a 4s1p AA alkaline battery pack to an 8s1p AA NIMH battery pack to meet new safety requirements that required NIMH batteries and to increase motor voltage for better responsiveness. We also use buck converter to provide 5V for the LED and the Arduino. For more details the competition requires you to make a document detailing the float which you can find here https://docs.google.com/presentation/d/1K5Izg2J6A27_h4L-tONvhKRoXee2B9teii5eu3XYeCg/edit?usp=sharing. 
+I managed a couple of people on this project, but after finals, only two stuck around. They redesigned a lot of the CAD for the new electronics and rewrote the code to work with the new board. I designed and soldered the new electronics system, as well as remaking the bottom endcap, and helped with some of the CAD redesign. The new system adds an SD card reader for better storage of data and to store the web interface. an LED strip to comunicate the decisions to meet mission requirements and help with debugging. We also switched from a 4s1p AA alkaline battery pack to an 8s1p AA NIMH battery pack to meet new safety requirements that required NIMH batteries and to increase motor voltage for better responsiveness. We also use buck converter to provide 5V for the LED and the Arduino. For more details, the competition requires you to make a document detailing the float, which you can find here https://docs.google.com/presentation/d/1K5Izg2J6A27_h4L-tONvhKRoXee2B9teii5eu3XYeCg/edit?usp=sharing. 
 
 Besides these projects, I also helped troubleshoot a leak in our enclosure, which turned out to be coming through the weld.
 ![Indentifying the leak with some paper](https://github.com/user-attachments/assets/e4cb8880-f98e-45b2-bb34-e697f2b623ca)
@@ -51,10 +51,19 @@ Besides these projects, I also helped troubleshoot a leak in our enclosure, whic
 I also designed the mounting for the electronics in the main enclosure
 ![Electronics Assembly](https://github.com/user-attachments/assets/ee731b83-dae1-4360-883a-6a9e7bc894b3)
 All the components were already chosen, and I just arranged them to fit in the enclosure. I also assembled and tested the electronics.
-![Electronics in real life]https://github.com/user-attachments/assets/f5280a99-3182-44b4-89c1-0aa80d131add")
+![Electronics in real life](https://github.com/user-attachments/assets/f5280a99-3182-44b4-89c1-0aa80d131add)
 In testing, we encountered thermal issues with the Pi, with only 20 minutes of runtime before it started thermal throttling. To fix this, we added a bigger heatsink with an integrated fan. Now the Pi holds steady around 45 degrees C. 
 
 Additionally, I have worked on a couple of different tools and the tool skid for the bot
+![Tool Skids](https://github.com/user-attachments/assets/4ed7223c-e9a3-4509-8350-172344b22404)
+In this competition, the runs are split between two different tanks. The flume tank at the Marine Institute and the offshore engineering basin at NRC. Because there are different tasks for both basins, we want different ROV payloads for each tank. To achieve this, I designed a very simple HDPE skid that we can easily attach and remove to switch between different missions. The priority for this skid was to keep it really easy to make, so we could go through many iterations to find the best skid for the comp. Pictured here are the current two skids we have.
+
+![Some clips](https://github.com/user-attachments/assets/d4e2dbb1-92a3-4f34-b95e-0dbb1a32a4fb)
+I also designed some clips to grab a bit of pipe from the bottom of the pool. Pictured is the first batch of clips, which were 3d printed. These were great for grabbing pipe in the air by hand but were pretty hard to use with the bot and got very damaged after a week of practice. To fix this, I redesigned a new set of clips to be CNC'ed, which went through a similar number of iterations.  
+
+![Spinny Tool](https://github.com/user-attachments/assets/9b1456d7-e3f2-4ad4-8678-9e174f94da43)
+Here is the tool designed to be used with the motor I waterproofed. It has an HDPE collet and a polycarbonate fork and will be tested tonight.
+
 
 
 
