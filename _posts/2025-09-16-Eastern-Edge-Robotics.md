@@ -2,7 +2,7 @@
 title: "Eastern Edge Robotics"
 date: 2026-05-19
 ---
-**DISCLAIMER I did a lot of work in 2026 so I would recommend just looking through the pictures because otherwise you will probably get bored**
+**DISCLAIMER I did a lot of work in 2026, so I would recommend just looking through the pictures and maybe reading their captions, because otherwise you will probably get bored**
 
 Eastern Edge Robotics is a student design team with ~30 members that competes in the MATE ROV competition at the university level. For the competition, teams must design and build ROVs to perform specific tasks that change every year. 
 
