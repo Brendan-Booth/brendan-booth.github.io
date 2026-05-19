@@ -3,7 +3,20 @@ title: "Eastern Edge Robotics"
 date: 2025-09-16
 ---
 
-Eastern Edge Robotics is a student design team with ~30 members that competes in the MATE ROV competition at the university level. For the competition, teams must design and build ROVs to perform specific tasks that change every year. 2024-2025 was my first year on the team, and I worked on the vertical profiler, photosphere, and some of the endcaps for the camera tube on the main bot.
+Eastern Edge Robotics is a student design team with ~30 members that competes in the MATE ROV competition at the university level. For the competition, teams must design and build ROVs to perform specific tasks that change every year. 
+
+2025-2026 was my second year on the team, and because of that, I had more leadership opportunities and worked on many more projects. I worked on three main projects this year: underwater electric actuation, cameras, and the vertical profilier. Additionally, I was involved in troubleshooting and speeding up critical path components for the bot. 
+
+The project I planned for this year was to develop a reliable, versatile system for tool actuation on the ROV. In 2024-2025, we only had static tooling, which works for many of the mission tasks, but limits us for some of the more complex tasks. To achieve this, I looked primarily at electric motor systems due to my prior experience with them and their ease of integration with the rest of our system; however, retrospectively, I should have looked seriously at pneumatic and hydraulic systems. After a lot more research, I came up with four options to try; first, I had some experiance with waterproofing brushed gear motors from my previous year on the team, and they had proven to be very reliable and versatile. Next was adding an encoder to the motor to have controlled rotation, which was initially planned for camera actuation. Next was buying underwater servos, which I have not had a lot of luck with in previous years, but a new member had mentioned a specific servo he had used in highschool which had worked great for him. Finally, I also looked into waterproofing a servo ourselves.
+
+My first step for the DC motors was choosing a motor to waterproof. I chose https://www.digikey.ca/en/products/detail/sparkfun-electronics/15277/9995750 primarily due to its low cost, and circular output shaft, with the RPM and torque being close enough to what I wanted. The circular output shaft was important because I planned on putting an O-ring on the shaft for waterproofing. The low cost was also important because I planned on breaking a lot of them through testing. To waterproof the motor, I chose to CNC a HDPE cover to go over the motor head to hold the O-ring, and then potted the back of the motor. I followed the instructions in Parker's O-Ring handbook to get all my important dimensions, starting with my 6mm shaft and relatively low RPM. I followed a design table that specified a number 10 O-ring with an outer groove diameter of 9.12mm, and constructed the hat based on that. 
+
+![Unpotted with Hat](<img width="3024" height="4032" alt="V1 Unpotted Motor" src="https://github.com/user-attachments/assets/a527d433-c6e1-4431-9ee0-05ff412e97be" />)
+
+
+
+
+2024-2025 was my first year on the team, and I worked on the vertical profiler, photosphere, and some of the endcaps for the camera tube on the main bot.
 
 ![Verticle profilier](https://github.com/user-attachments/assets/4508c662-71b9-4c1f-a72f-76562dba7a78)
 
