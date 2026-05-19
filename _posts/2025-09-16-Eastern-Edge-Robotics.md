@@ -77,7 +77,7 @@ Here is the tool designed to be used with the motor I waterproofed. It has an HD
 
 
 
-2024-2025 was my first year on the team, and I worked on the vertical profiler, photosphere, and some of the endcaps for the camera tube on the main bot.
+**2024-2025 was my first year on the team, and I worked on the vertical profiler, photosphere, and some of the endcaps for the camera tube on the main bot.**
 
 ![Verticle profilier](https://github.com/user-attachments/assets/4508c662-71b9-4c1f-a72f-76562dba7a78)
 
